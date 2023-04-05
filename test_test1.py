@@ -18,7 +18,7 @@ import openpyxl
 from selenium.webdriver.support.select import Select
 
 #Asagıda yazılan kodlar Selenium İdede yazılmıs Daha sonra Refactor Edilmiştir.
-
+#Not Sınav Haftasında olğum için istediğim şeyleri yapmak adına daha sonra güncelleme yağpacağım
 class TestTest1():
   
   def waitForElementVisible(self,locator,timeout=2):
